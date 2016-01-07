@@ -1,4 +1,10 @@
-.first-blerb {background-color: #caa;
+.first-blerb {
+    position: fixed !important;
+    top: 0;
+    bottom: 0;
+    background-color: #caa;
 }
-#extra-padding { padding-left: 3%;
-padding-right: 3%;}
+#extra-padding {
+    padding-left: 3%;
+    padding-right: 3%;
+}
