@@ -2,9 +2,12 @@
     position: fixed !important;
     top: 0;
     bottom: 0;
-    background-color: #caa;
+    background-color: #da7;
 }
 #extra-padding {
     padding-left: 3%;
     padding-right: 3%;
+}
+.nice-yellow {
+    background-color: #ffe
 }
