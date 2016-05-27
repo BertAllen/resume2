@@ -3,6 +3,7 @@
     top: 0;
     bottom: 0;
     background-color: #da7;
+    /*background: linear-gradient(to right bottom, #da7, #ffe)*/
 }
 #extra-padding {
     padding-left: 3%;
@@ -10,4 +11,9 @@
 }
 .nice-yellow {
     background-color: #ffe
+}
+.my-pic{
+    border-radius: 10px;
+    /*border: solid 3px #300;
+    border: radial-gradient(circle, #300, #da7);*/
 }
