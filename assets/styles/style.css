@@ -1,16 +1,17 @@
-.first-blerb {
+.col-sm-4.first-blerb {
     position: fixed !important;
     top: 0;
     bottom: 0;
     background-color: #da7;
+    height: 100%;
     /*background: linear-gradient(to right bottom, #da7, #ffe)*/
 }
-#extra-padding {
+.extra-padding {
     padding-left: 3%;
     padding-right: 3%;
 }
 .nice-yellow {
-    background-color: #ffe
+    background-color: #ffa
 }
 .my-pic{
     border-radius: 10px;
